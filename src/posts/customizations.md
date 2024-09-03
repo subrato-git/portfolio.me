@@ -1,6 +1,6 @@
 ---
 title: Effect of selfish gene
-date: 2020-10-15T12:23:39.598Z
+date: 2023-10-15T12:23:39.598Z
 summary: I wrote what selfish gene is and how it affects you.
 tags:
   - gene

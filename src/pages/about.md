@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 
 ### Who am I?
-Hi, my name is Nezha, I recent masters graduate from [Ibn Zahor University](https://www.uiz.ac.ma/), Morocco. I live in Agadir, a city of vast historical attachment, with my parents and love to travel around the world.
+Hi, my name is Nezha, I recent masters graduate from [Ibn Zahor University](https://www.uiz.ac.ma/), Morocco. I live in Agadir, a city of vast historical attachment, with my parents and love to travel around the world. I know english, arabic and french.
 
 ### Why create this?
 
