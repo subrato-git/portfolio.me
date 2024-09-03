@@ -11,9 +11,7 @@ tags:
 ---
 
 ### Task
-
 My project involves translating cat sounds to humand understandable speech.
 
 ### Solution
-
 I took gene from cats.
