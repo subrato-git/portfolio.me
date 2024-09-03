@@ -19,4 +19,6 @@ Hi, my name is Nezha, I recent masters graduate from [Ibn Zahor University](http
 **Reason #2:** I wanted to learn how a student from Biology background can also set up her own website.
 
 ### How to reach me?
-You can contact me at my email at: nezha@gmailc.com
+You can contact me at my email at: nezha@gmail.com
+
+![Fern in Hand](/src/assets/img/fern-forest.png "University")
